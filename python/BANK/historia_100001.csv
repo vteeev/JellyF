@@ -1,0 +1,6 @@
+payment_id,kwota,typ,Nr konta
+1234568,100.0,deposit,
+1234569,100.0,deposit,
+1234570,1000.0,deposit,
+1234568,-100.0,withdrawal,
+1234568,150.0,bank-transfer,123456
